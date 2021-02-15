@@ -20,6 +20,8 @@ This project is a lab project which was made within my studies.  It uses two RES
 ### Support 
 if you have any questions contact me at *nikosgavalas1990@gmail.com*
 
-###Contributing
+### Contributing
 
 Open for contributions
+
+
